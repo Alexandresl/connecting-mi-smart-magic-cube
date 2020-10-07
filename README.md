@@ -1,1 +1,1 @@
-"# connecting-mi-smart-magic-cube" 
+# connecting-mi-smart-magic-cube
